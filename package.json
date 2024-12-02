@@ -1,0 +1,26 @@
+{
+  "name": "npmforcurrency",
+  "version": "1.0.0",
+  "description": "npm package for currency converetor",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghavendragouda775/npm_currency_convertor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Raghu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/raghavendragouda775/npm_currency_convertor/issues"
+  },
+  "homepage": "https://github.com/raghavendragouda775/npm_currency_convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
